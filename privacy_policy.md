@@ -10,18 +10,18 @@ Clothory is a simple digital closet and outfit planner. This Privacy Policy expl
 - Clothory does not provide cloud sync in version 1.0.0.
 - Clothory does not use AI features in version 1.0.0.
 - Clothory does not include subscriptions or in-app purchases in version 1.0.0.
-- Clothing photos and wardrobe data are stored locally on your device.
+- Clothing photos you choose from your library or take with the camera, and wardrobe data, are stored locally on your device.
 - The developer does not upload clothing photos or wardrobe data to a developer server.
 - Clothory uses Google AdMob banner ads.
 - Contact Support email is optional.
 
 ## Information You Provide
 
-Clothory lets you add clothing photos, item details, outfits, worn logs, and notes. This information is used to provide the app's wardrobe, outfit planning, search, filtering, and worn log features.
+Clothory lets you add clothing photos by choosing images from your photo library or taking photos with your camera. You can also add item details, outfits, worn logs, and notes. This information is used to provide the app's wardrobe, outfit planning, search, filtering, and worn log features.
 
 ## Clothing Photos and Wardrobe Data
 
-Clothing photos and wardrobe data are stored locally on your device. The developer does not upload your clothing photos, wardrobe items, outfits, worn logs, or notes to a developer server.
+Clothing photos and wardrobe data are stored locally on your device. Camera and photo library access are used only to add clothing item images. The developer does not upload your clothing photos, wardrobe items, outfits, worn logs, or notes to a developer server.
 
 If you delete the app, locally stored app data may be deleted from your device according to iOS behavior.
 
